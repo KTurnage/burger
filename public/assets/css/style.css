@@ -1,0 +1,42 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  /* img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .create-form{
+      text-align: center;
+  }
+
+  
+.devoured {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+}
+
+.addABurger {
+    text-align: center; 
+} */
